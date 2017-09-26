@@ -1,2 +1,3 @@
-trial
-changes
+Mars is red
+It is also hot and dry
+And has three rovers
